@@ -1,8 +1,11 @@
 # herramientas_big_data_SAG
 
-Proyecto de Analitica de datos para la materia de Herramientas de Big Data 
+<h1>Proyecto de Analitica de datos para la materia de Herramientas de Big Data </h1>
+<p>con los integrantes:</p>
+<ul>
+  <li>Sergio Valencia</li>
+  <li>Andres Gil</li>
+  <li>Gabriel Roncancio</li>
+</ul>
 
-con los integrantes 
--Sergio Valencia 
--Andres Gil
--Gabriel Roncancio
+
